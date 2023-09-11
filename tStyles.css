@@ -39,6 +39,7 @@ body {
   display: block;
   height: auto;
   margin: auto;
+  display: inline-block;
 }
 
 .image-caption {
